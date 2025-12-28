@@ -1,7 +1,9 @@
 package com.coco.notes.model.vo.comment;
 
 import java.time.LocalDateTime;
+import java.util.List;
 
+import com.coco.notes.model.vo.user.UserActionVO;
 import lombok.Data;
 
 @Data
